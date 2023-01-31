@@ -1,10 +1,10 @@
-module github.com/luxdefi/ledger-go
+module github.com/luxdefi/ledger-sdk
 
 go 1.18
 
 require (
 	github.com/FactomProject/btcutilecc v0.0.0-20130527213604-d3a63a5752ec
-	github.com/luxdefi/node v1.9.2
+	github.com/luxdefi/node v1.9.6-rc.1
 	github.com/stretchr/testify v1.8.0
 	github.com/zondax/ledger-go v0.13.0
 )
