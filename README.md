@@ -1,6 +1,6 @@
-# avalanche-ledger-go
+# ledger-sdk
 
-_Golang SDK for Using the [Avalanche Ledger App](https://github.com/obsidiansystems/ledger-app-avalanche)_
+_Golang SDK for Using the [Lux Ledger App](https://github.com/luxdefi/ledger-app)_
 
 ## Example
 ```golang
